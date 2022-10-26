@@ -1,0 +1,2 @@
+# pythonclass2022
+MY PYTHON CLASS WITH SQL
